@@ -3,7 +3,9 @@
 This is a Streamlit application that allows users to upload PDF files, ask questions about their content, and receive concise answers using **Conversational Retrieval-Augmented Generation (RAG)**. It supports chat history for contextual understanding and uses a combination of HuggingFace embeddings and Groq's Gemma-2 9B language model.
 
 ---
+## Demo
 
+---
 ## 🚀 Features
 
 - 📄 Upload and process multiple PDF files
