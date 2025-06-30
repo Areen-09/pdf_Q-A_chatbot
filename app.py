@@ -20,7 +20,7 @@ embeddings=HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
 
 ## set up Streamlit 
-st.title("Conversational RAG With PDF uplaods and chat history")
+st.title("chatbot With PDF uplaods and chat history")
 st.write("Upload Pdf's and chat with their content")
 
 ## Input the Groq API Key
@@ -75,9 +75,6 @@ if api_key:
         
         history_aware_retriever=create_history_aware_retriever(llm,retriever,contextualize_q_prompt)
 
-        ## Answer question
-
-        # Answer question
         system_prompt = (
                 "You are an assistant for question-answering tasks. "
                 "Use the following pieces of retrieved context to answer "
