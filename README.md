@@ -59,10 +59,7 @@ Create a `.env` file in the root directory and add your HuggingFace API token:
 ---
 
 ## 📦 Project Structure
-├── app.py # Main Streamlit application
-├── requirements.txt # Required Python packages
-├── .env # Environment variables (not tracked in Git)
-└── README.md # Project documentation
+<pre><code>## 📦 Project Structure ├── app.py # Main Streamlit application ├── requirements.txt # Required Python packages ├── .env # Environment variables (not tracked in Git) └── README.md # Project documentation </code></pre>
 ---
 
 ## 🧩 Tech Stack
