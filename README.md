@@ -19,8 +19,8 @@ This is a Streamlit application that allows users to upload PDF files, ask quest
 
 ### 1. Clone the repository
 
-<pre><code>git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+<pre><code>git clone https://github.com/Areen-09/pdf_Q-A_chatbot.git
+cd pdf_Q-A_chatbot
 </code></pre>
 
 ### 2. Install dependencies
@@ -56,10 +56,6 @@ Create a `.env` file in the root directory and add your HuggingFace API token:
 - Ask questions related to the PDF content
 - View answers and the evolving chat history
 
----
-
-## 📦 Project Structure
-<pre><code>## 📦 Project Structure ├── app.py # Main Streamlit application ├── requirements.txt # Required Python packages ├── .env # Environment variables (not tracked in Git) └── README.md # Project documentation </code></pre>
 ---
 
 ## 🧩 Tech Stack
