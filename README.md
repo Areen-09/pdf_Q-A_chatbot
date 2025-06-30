@@ -4,7 +4,7 @@ This is a Streamlit application that allows users to upload PDF files, ask quest
 
 ---
 ## Demo
-[▶️ Watch demo video](./demo.mp4)
+[▶️ Watch demo video](./assets/demo.mp4)
 ---
 ## 🚀 Features
 
